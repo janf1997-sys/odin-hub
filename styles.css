@@ -1,0 +1,15 @@
+:root {
+    --bg-main: #f2f4f3;
+    --primary: #177e89;
+    --primary-hover: #084c61;
+    --text-main: #53423c;
+    --text-heading: #3b2f2b;
+    --accent: #ff9b42;
+    --font-main: "Roboto", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
