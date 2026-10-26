@@ -18,7 +18,7 @@ This repository serves as an overarching index, tracking my learning trajectory,
 
 | Track / Section | Repository | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **01. Foundations** | [`odin-foundations`](https://github.com/<your-username>/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | 🔄 In Progress |
+| **01. Foundations** | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | 🔄 In Progress |
 | **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)* | Deep dive into full-stack application development | ⏳ Pending |
 
 ---
