@@ -26,22 +26,6 @@ This repository serves as an overarching index, tracking my learning trajectory,
 
 ---
 
-## 🚀 Key Projects & Live Demos
-
-A curated showcase of major milestones completed throughout the curriculum:
-
-| Project | Track | Tech Stack | Live Demo | Source Code |
-| :--- | :--- | :--- | :---: | :---: |
-| **Recipes** | Foundations | HTML | [Demo](https://janf1997-sys.github.io/odin-foundations/01_odin-recipes/index.html) | [Code](https://github.com/janf1997-sys/odin-foundations/tree/main/01_odin-recipes) |
-| **Landing Page** | Foundations | HTML, Modern CSS (Flexbox) | [Demo](#) | [Code](#) |
-| **Rock Paper Scissors** | Foundations | JavaScript (DOM Manipulation, Logic) | [Demo](#) | [Code](#) |
-| **Etch-a-Sketch** | Foundations | JavaScript, CSS Grid/Flexbox | [Demo](#) | [Code](#) |
-| **Calculator** | Foundations | JavaScript, CSS, Semantic HTML | [Demo](#) | [Code](#) |
-
-*(Table will be updated dynamically as milestones are achieved.)*
-
----
-
 ## 🛠️ Development Environment & Core Tooling
 
 - **OS & Environment:** Windows 11 with **WSL2 (Ubuntu/Debian Linux)** — native POSIX CLI workflow, Git, and package management.
