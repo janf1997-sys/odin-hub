@@ -1,15 +1,50 @@
 :root {
-    --bg-main: #f2f4f3;
-    --primary: #177e89;
-    --primary-hover: #084c61;
-    --text-main: #53423c;
-    --text-heading: #3b2f2b;
-    --accent: #ff9b42;
-    --font-main: "Roboto", sans-serif;
+  --bg-main: #f2f4f3;
+  --primary: #177e89;
+  --primary-hover: #084c61;
+  --text-main: #53423c;
+  --text-heading: #3b2f2b;
+  --accent: #ff9b42;
+  --font-main: 'Roboto', sans-serif;
 }
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
+  background-color: var(--bg-main);
+  color: var(--text-heading);
+  padding: 4rem 1.5rem;
+}
+
+.dashboard {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.75rem;
+}
+.dashboard-list {
+  list-style-type: none;
+}
+.dashboard-list li {
+  margin-bottom: 0.5rem;
+}
+.dashboard-list a {
+  display: inline-block;
+  color: var(--text-main);
+  font-weight: 600;
+  text-decoration: none;
+}
+.dashboard-list a:hover {
+  text-decoration: underline;
+  color: var(--accent);
 }
