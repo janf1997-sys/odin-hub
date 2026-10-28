@@ -4,6 +4,8 @@ Welcome to my central hub for **[The Odin Project](https://www.theodinproject.co
 
 This repository serves as an overarching index, tracking my learning trajectory, project milestones, live deployments, and foundational architectural decisions across various course tracks.
 
+👉 **Live Dashboard:** [janf1997-sys.github.io/odin-hub](https://janf1997-sys.github.io/odin-hub/)
+
 ---
 
 ## 🎯 Purpose & Architecture
@@ -18,6 +20,7 @@ This repository serves as an overarching index, tracking my learning trajectory,
 
 | Track / Section | Repository | Description | Status |
 | :--- | :--- | :--- | :--- |
+| **00. Central Hub** | [`Live Demo`](https://janf1997-sys.github.io/odin-hub/) | Overarching navigaton & path overview | 🟢 Active |
 | **01. Foundations** | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | 🔄 In Progress |
 | **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)* | Deep dive into full-stack application development | ⏳ Pending |
 
@@ -29,8 +32,8 @@ A curated showcase of major milestones completed throughout the curriculum:
 
 | Project | Track | Tech Stack | Live Demo | Source Code |
 | :--- | :--- | :--- | :---: | :---: |
-| **Recipes** | Foundations | HTML | [Demo](https://<janf1997-sys>.github.io/odin-foundations/recipes/) | [Code]([https://github.com/<your-username>/odin-foundations/tree/main/recipes](https://github.com/janf1997-sys/odin-foundations/tree/main/01_odin-recipes)) |
-| **Landing Page** | Foundations | HTML, Modern CSS (Flexbox) | [Demo](https://<your-username>.github.io/odin-foundations/landing-page/) | [Code](https://github.com/<your-username>/odin-foundations/tree/main/landing-page) |
+| **Recipes** | Foundations | HTML | [Demo](https://janf1997-sys.github.io/odin-foundations/01_odin-recipes/index.html) | [Code](https://github.com/janf1997-sys/odin-foundations/tree/main/01_odin-recipes) |
+| **Landing Page** | Foundations | HTML, Modern CSS (Flexbox) | [Demo](#) | [Code](#) |
 | **Rock Paper Scissors** | Foundations | JavaScript (DOM Manipulation, Logic) | [Demo](#) | [Code](#) |
 | **Etch-a-Sketch** | Foundations | JavaScript, CSS Grid/Flexbox | [Demo](#) | [Code](#) |
 | **Calculator** | Foundations | JavaScript, CSS, Semantic HTML | [Demo](#) | [Code](#) |
