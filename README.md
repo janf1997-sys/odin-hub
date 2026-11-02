@@ -20,7 +20,7 @@ This repository serves as an overarching index, tracking my learning trajectory,
 
 | Track / Section | Repository | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **00. Central Hub** | [`Live Demo`](https://janf1997-sys.github.io/odin-hub/) | Overarching navigaton & path overview | 🟢 Active |
+| **00. Central Hub** | (this Repo) | Overarching navigation & path overview | 🟢 Active |
 | **01. Foundations** | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | 🔄 In Progress |
 | **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)* | Deep dive into full-stack application development | ⏳ Pending |
 
