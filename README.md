@@ -1,6 +1,6 @@
 # Odin Hub 🧭
 
-Welcome to my central hub for **[The Odin Project](https://www.theodinproject.com/)** (Full Stack Curriculum). 
+Welcome to my central hub for **[The Odin Project](https://www.theodinproject.com/)** (Full Stack Curriculum).
 
 This repository serves as an overarching index, tracking my learning trajectory, project milestones, live deployments, and foundational architectural decisions across various course tracks.
 
@@ -18,11 +18,12 @@ This repository serves as an overarching index, tracking my learning trajectory,
 
 ## 🗺️ Curriculum Roadmap & Repositories
 
-| Track / Section | Repository | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **00. Central Hub** | (this Repo) | Overarching navigation & path overview | 🟢 Active |
-| **01. Foundations** | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | 🔄 In Progress |
-| **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)* | Deep dive into full-stack application development | ⏳ Pending |
+
+| Track / Section         | Repository                                                             | Description                                                  | Status        |
+| :---------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------- | :------------ |
+| **00. Central Hub**     | (this Repo)                                                            | Overarching navigation & path overview                       | 🟢 Active     |
+| **01. Foundations**     | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | ✅ Completed |
+| **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)*                                     | Deep dive into full-stack application development            | ⏳ Pending    |
 
 ---
 
