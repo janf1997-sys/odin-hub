@@ -19,11 +19,11 @@ This repository serves as an overarching index, tracking my learning trajectory,
 ## 🗺️ Curriculum Roadmap & Repositories
 
 
-| Track / Section         | Repository                                                             | Description                                                  | Status        |
-| :---------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------- | :------------ |
-| **00. Central Hub**     | (this Repo)                                                            | Overarching navigation & path overview                       | 🟢 Active     |
-| **01. Foundations**     | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations) | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | ✅ Completed |
-| **02. Full Stack Path** | *TBD (Ruby on Rails / JavaScript)*                                     | Deep dive into full-stack application development            | ⏳ Pending    |
+| Track / Section         | Repository                                                                                 | Description                                                  | Status        |
+| :---------------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------- | :------------ |
+| **00. Central Hub**     | (this Repo)                                                                                | Overarching navigation & path overview                       | 🟢 Active     |
+| **01. Foundations**     | [`odin-foundations`](https://github.com/janf1997-sys/odin-foundations)                     | Core web dev fundamentals: Git, HTML, CSS, JavaScript basics | ✅ Completed |
+| **02. Full Stack Path** | [`odin-full-stack-javascript`](https://github.com/janf1997-sys/odin-full-stack-javascript) | Deep dive into full-stack application development            | ⏳ Pending    |
 
 ---
 
@@ -33,9 +33,3 @@ This repository serves as an overarching index, tracking my learning trajectory,
 - **Editor & Tools:** VS Code (via Remote - WSL extension), Node.js/npm, live-server.
 - **Version Control:** Git & GitHub using [Conventional Commits](https://www.conventionalcommits.org/).
 - **Quality & Standards:** Semantic HTML5, modern layout paradigms (Flexbox/Grid), DRY vanilla JavaScript, and cross-browser testing.
-
----
-
-## 📬 Connect
-
-- **GitHub:** [@<your-username>](https://github.com/<janf1997-sys>)
